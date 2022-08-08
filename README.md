@@ -348,11 +348,12 @@
 
 * [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
+* [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 * [FreeRADIUS](http://freeradius.org/) - High performance and highly configurable multi-protocol policy/authentication server, supporting RADIUS, DHCPv4 and VMPS.
+* [glauth](https://github.com/glauth/glauth) - Lightweight and statically configured single-process LDAP server, written in golang.
 * [OpenDJ](http://opendj.forgerock.org/) - Fork of OpenDS.
 * [OpenDS](https://opends.java.net/) - Another directory server written in Java.
 * [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
-* [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 
 ### Tools and web interfaces
 
